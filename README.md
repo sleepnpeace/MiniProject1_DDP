@@ -8,7 +8,7 @@ Kode ini berfungsi untuk mendefinisikan warna yang diambil dari kode ANSI yang a
 kode ini berfungsi untuk menyimpan data musik menggunakan list dan didalam nya terdapat judul musik, artis, dan genre 
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20menu%20utama.png)
-Kode ini berfungsi untuk melakukan perulangan tanpa henti sampai program dihentikan, menampilkan output menu utama (list semua musik, tambah musik, ubah musik, hapus musik, rekomendasi genre, dan keluar), memberi warna ungu untuk judul menu utama, dan untuk memasukkan input angka dari 1-6
+Kode ini berfungsi untuk melakukan perulangan tanpa henti sampai program dihentikan, menampilkan output menu utama (list semua musik, tambah musik, ubah musik, hapus musik, rekomendasi genre, dan keluar), memberi warna untuk judul menu utama (warnanya ungu dan reset untuk batas serta mengembalikan warna ke normal), dan untuk memasukkan input angka dari 1-6
 
 ![alt text](url)
 ![alt text](url)
