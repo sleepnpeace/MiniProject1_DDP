@@ -2,7 +2,7 @@
 
 Penjelasan Program
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20warna.png)
-Kode ini berfungsi untuk mendefinisikan warna yang diambil dari kode ANSI yang akan digunakan untuk setiap headline menu
+Kode ini berfungsi untuk mendefinisikan warna yang diambil dari kode ANSI yang akan digunakan untuk setiap judul menu
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20list%20musik.png)
 kode ini berfungsi untuk menyimpan data musik menggunakan list dan didalam nya terdapat judul lagu, artis, dan genre 
