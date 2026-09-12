@@ -1,6 +1,6 @@
 # MiniProject1_DDP
 
-Penjelasan Program
+1.Penjelasan Program
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20warna.png)
 Kode ini berfungsi untuk mendefinisikan warna yang diambil dari kode ANSI yang akan digunakan untuk setiap judul menu
 
@@ -46,10 +46,10 @@ Kode ini berfungsi jika pengguna menginput angka 6 akan keluar dari program dan 
 
 dan kode jika kondisi menginput bukan angka 1-6 pada menu utama akan menampilkan pesan "Pilihan menu tidak valid. Silakan pilih 1-6."
 
--Flowchart
+2.Flowchart
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/flowchart.jpg)
 
--Output Program
+3.Output Program
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/output%20menu%20utama.png)
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/pilihan%20menu%20tidak%20valid.png)
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/tampilkan%20musik.png)
