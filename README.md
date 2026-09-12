@@ -47,7 +47,7 @@ lalu ada conditional statement jika genre yang diinput ada akan menampilkan reko
 
 Kode ini berfungsi jika pengguna menginput angka 6 akan keluar dari program dan muncul pesan "Terima kasih, dan sampai jumpa lagi di lain waktu!"
 
-dan kode jika kondisi menginput bukan angka 1-6 pada menu utama akan menampilkan pesan "Pilihan menu tidak valid. Silakan pilih 1-6."
+dan kode jika di menu utama tadi menginput bukan angka 1-6 akan menampilkan pesan "Pilihan menu tidak valid. Silakan pilih 1-6."
 
 2.Flowchart
 
