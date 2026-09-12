@@ -47,19 +47,31 @@ Kode ini berfungsi jika pengguna menginput angka 6 akan keluar dari program dan 
 dan kode jika kondisi menginput bukan angka 1-6 pada menu utama akan menampilkan pesan "Pilihan menu tidak valid. Silakan pilih 1-6."
 
 2.Flowchart
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/flowchart.jpg)
 
 3.Output Program
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/output%20menu%20utama.png)
+Menu utama
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/pilihan%20menu%20tidak%20valid.png)
+Pilihan menu tidak valid
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/tampilkan%20musik.png)
+Tampilkan musik
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/tambahkan%20musik.png)
+Tambahkan musik
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/ubah%20musik%20berhasil.png)
+Ubah musik berhasil
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/ubah%20musik%20tidak%20valid.png)
+Ubah musik tidak valid
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/hapus%20musik.png)
+hapus musik
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/hapus%20musik%20tidak%20valid.png)
+hapus musik tidak valid
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20.png)
+Genre musik
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20musik%20ada.png)
+Genre musik ada
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20musik%20tidak%20ada.png)
+Genre musik tidak ada
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/keluar.png)
-
+Keluar
