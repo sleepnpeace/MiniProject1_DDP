@@ -14,7 +14,7 @@ Kode ini berfungsi untuk melakukan perulangan tanpa henti sampai program dihenti
 Kode ini memuat conditional statement yang berfungsi jika pengguna menginput angka 1 akan masuk ke menu lihat dan menampilkkan judul menu dengan warna biru, muncul output "Belum ada data musik." jika data belum ada, dan jika ada (minimal 1) akan menampilkan list musik dengan judul[0], artis[1], genre[2], terdapat perulangan (for i) dan penomoran otomatis yang dimulai dari 1(enumerate) bukan 0
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/2.png)
-Kode ini berfungsi jika pengguna menginput angka 2 akan masuk ke menu tambah dan menampilkkan judul menu dengan warna hijau, dan dapat menginput judul, artis, genre untuk menambahkan data ke dalam list, dan dengan append musik baru yang ditambahkan akan ditaruh di bagian terakhir dalam list utama musik
+Kode ini berfungsi jika pengguna menginput angka 2 akan masuk ke menu tambah dan menampilkkan judul menu dengan warna hijau, dan dapat menginput judul, artis, genre untuk menambahkan data ke dalam list, dan dengan append musik baru yang ditambahkan akan ditaruh di bagian terakhir dalam list utama musik, lalu kode untuk menampilkan pesan "Musik berhasil ditambahkan!)
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/3.png)
 Kode ini berfungsi jika pengguna menginput angka 2 akan masuk ke menu ubah dan menampilkkan judul menu dengan warna kuning, terdapat conditional statement yaitu, jika belum ada data akan menampilkan pesan "Belum ada data musik.", tetapi jika ada (minimal 1) akan menampilkan list musik dengan judul[0], artis[1], genre[2], terdapat perulangan (for i) dan penomoran otomatis yang dimulai dari 1(enumerate) bukan 0. 
