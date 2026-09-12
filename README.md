@@ -5,6 +5,7 @@
 Kode ini berfungsi untuk mendefinisikan warna yang diambil dari kode ANSI yang akan digunakan untuk setiap judul menu
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20list%20musik.png)
+
 kode ini berfungsi untuk menyimpan data musik menggunakan list dan didalam nya terdapat judul musik, artis, dan genre 
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/1%20menu%20utama.png)
@@ -33,6 +34,7 @@ lalu ada loop validasi (while true) berfungsi agar program meminta pengguna untu
 terdapat fungsi hapus musik berdasarkan angka yang di input dan variabel lagu untuk memanggil namanya kembali di kode untuk menampilkan pesan data musik yang sudah di hapus
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/5.png)
+
 Kode ini berfungsi jika pengguna menginput angka 5 akan masuk ke menu rekomendasi dan menampilkkan judul menu dengan warna biru, terdapat conditional statement yaitu, jika belum ada data akan menampilkan pesan "Belum ada data musik. jika ada (minimal 1) akan menampilkan daftar genre yang didalamnya terdapat musik sesuai genre tersebut
 
 lalu ada kode bertugas mengambil semua nama genre dari daftar musik, membuang genre yang ganda, lalu menyusunnya secara rapi sesuai urutan abjad (A–Z). Cara kerjanya berjalan dari dalam ke luar: program mengumpulkan seluruh genre dari tiap lagu (lagu[2] for lagu in musik), fungsi set() otomatis menghapus duplikatnya, list() mengubahnya kembali menjadi daftar biasa, dan perintah sorted() mengurutkan daftar genre tersebut dari A sampai Z sebelum disimpan ke variabel daftar_genre.
@@ -42,6 +44,7 @@ lalu ada perulangan untuk mencetak daftar genre dan menggunakan "•" sebagai be
 lalu ada conditional statement jika genre yang diinput ada akan menampilkan rekomendasi dengan genre yang sesuai, jika tidak muncul pesan "Maaf, genre tidak ada." dan akan kembali ke menu utama
 
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/6.png)
+
 Kode ini berfungsi jika pengguna menginput angka 6 akan keluar dari program dan muncul pesan "Terima kasih, dan sampai jumpa lagi di lain waktu!"
 
 dan kode jika kondisi menginput bukan angka 1-6 pada menu utama akan menampilkan pesan "Pilihan menu tidak valid. Silakan pilih 1-6."
@@ -53,25 +56,36 @@ dan kode jika kondisi menginput bukan angka 1-6 pada menu utama akan menampilkan
 3.Output Program
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/output%20menu%20utama.png)
 Menu utama
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/pilihan%20menu%20tidak%20valid.png)
 Pilihan menu tidak valid
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/tampilkan%20musik.png)
 Tampilkan musik
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/tambahkan%20musik.png)
 Tambahkan musik
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/ubah%20musik%20berhasil.png)
 Ubah musik berhasil
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/ubah%20musik%20tidak%20valid.png)
 Ubah musik tidak valid
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/hapus%20musik.png)
 hapus musik
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/hapus%20musik%20tidak%20valid.png)
 hapus musik tidak valid
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20.png)
 Genre musik
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20musik%20ada.png)
 Genre musik ada
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/genre%20musik%20tidak%20ada.png)
 Genre musik tidak ada
+
 ![alt text](https://github.com/sleepnpeace/MiniProject1_DDP/blob/main/Images/keluar.png)
 Keluar
