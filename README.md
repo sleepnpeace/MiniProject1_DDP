@@ -39,7 +39,7 @@ Kode ini berfungsi jika pengguna menginput angka 5 akan masuk ke menu rekomendas
 
 lalu ada kode bertugas mengambil semua nama genre dari daftar musik, membuang genre yang ganda, lalu menyusunnya secara rapi sesuai urutan abjad (A–Z). Cara kerjanya berjalan dari dalam ke luar: program mengumpulkan seluruh genre dari tiap lagu (lagu[2] for lagu in musik), fungsi set() otomatis menghapus duplikatnya, list() mengubahnya kembali menjadi daftar biasa, dan perintah sorted() mengurutkan daftar genre tersebut dari A sampai Z sebelum disimpan ke variabel daftar_genre.
 
-lalu ada perulangan untuk mencetak daftar genre dan menggunakan "•" sebagai bentuk pengurutannya, terdapat input genre untuk nama genre yang ingin dicari, kemudian program akan memeriksa satu per satu data musik dalam list musik, kemudian mengambil bagian lagu[2] yang merupakan genre, fungsi .lower() digunakan agar huruf besar dan kecil tidak menjadi masalah, misalnya "Rock" dan "rock" tetap dianggap sama. Musik yang genrenya cocok akan dimasukkan ke dalam list rekomendasi.
+lalu ada perulangan untuk mencetak daftar genre dan menggunakan "•" sebagai bentuk pengurutannya, terdapat input genre untuk nama genre yang ingin dicari, kemudian program akan memeriksa satu per satu data musik dalam list musik, kemudian mengambil bagian lagu[2] yang merupakan genre, fungsi .lower() digunakan agar huruf besar dan kecil tidak menjadi masalah, misalnya "Rock" dan "rock" tetap dianggap sama. musik yang genrenya cocok akan dimasukkan ke dalam list rekomendasi.
 
 lalu ada conditional statement jika genre yang diinput ada akan menampilkan rekomendasi dengan genre yang sesuai, jika tidak muncul pesan "Maaf, genre tidak ada." dan akan kembali ke menu utama
 
